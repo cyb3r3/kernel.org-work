@@ -1,1 +1,0 @@
-/home/cyb3r/Documents/funnies/linux-kernal-driver/hello-1.o
